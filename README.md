@@ -2,8 +2,8 @@
 
 ## Angular CLI version 9.0.7
 
-### to install all necessary node modules 
+### To install all necessary node modules 
 >`npm install` 
 
-### to build and run 
+### To run 
 >`ng serve` 
